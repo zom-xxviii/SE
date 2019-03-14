@@ -23,6 +23,8 @@
         <input type="checkbox" name = "Single" value = "1">เล่นมือถือ
         <input type="checkbox" name = "Single" value = "1">อ่านหนังงสือ
         <input type="checkbox" name = "Single" value = "1">ดูหนังฟังเพลง
+        <input type="checkbox" name = "Single" value = "1">ไปเที่ยว
+        <input type="checkbox" name = "Single" value = "1">นอนเล่น
         <br>
         
         <input type="submit" value="แสดง"> 
