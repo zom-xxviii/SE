@@ -20,9 +20,9 @@
         <input type="radio" name = "Single" value = "4">หม้าย
         <br>
         รายได้
-        <input type="radio" name = "Single" value = "1">0-500
-        <input type="radio" name = "Single" value = "1">501-1000
-        <input type="radio" name = "Single" value = "1">1000-15000
+        <input type="radio"  value = "1">0-500
+        <input type="radio"  value = "1">501-1000
+        <input type="radio"  value = "1">1000-15000
         <br>
         งานอดิเรก
         <input type="checkbox" name = "Single" value = "1">เล่นมือถือ
