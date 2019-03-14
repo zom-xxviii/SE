@@ -13,7 +13,7 @@
             
         <input type="text" id="Age" name="Age" size="3">
         <br>
-
+        สถานะ
         <input type="radio" name = "Single" value = "1" checked> โสด
         <input type="radio" name = "Single" value = "2">แต่ง
         <input type="radio" name = "Single" value = "3">หย่า
