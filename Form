@@ -3,14 +3,14 @@
     <head><title>My Form</title></head>
     <form name="Personal" method="get">
         <input type="text" id="FirstName" name="FirstName">
-        <br>
+        
         <input type="text" id="LastName" name="LastName">
         <br>
             <select id="Gender" name="Gender">
                 <option value="F"> </option>
                 <option value="M"> </option>
             </select>
-            <br>
+            
         <input type="text" id="Age" name="Age" size="3">
         <br>
 
