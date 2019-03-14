@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head><title>My Form</title></head>
+    <form name="Personal" method="get">
+        <input type="text" id="FirstName" name="FirstName">
+        <br>
+        <input type="text" id="LastName" name="LastName">
+        <br>
+            <select id="Gender" name="Gender">
+                <option value="F"> </option>
+                <option value="M"> </option>
+            </select>
+            <br>
+        <input type="text" id="Age" name="Age" size="3">
+        <br>
+
+        <input type="radio" name = "Single" value = "1" checked> โสด
+        <input type="radio" name = "Single" value = "2">แต่ง
+        <input type="radio" name = "Single" value = "3">หย่า
+        <input type="radio" name = "Single" value = "4">หม้าย
+        <br>
+
+        <input type="checkbox" name = "Single" value = "1">เล่นมือถือ
+        <input type="checkbox" name = "Single" value = "1">อ่านหนังงสือ
+        <input type="checkbox" name = "Single" value = "1">ดูหนังฟังเพลง
+        <br>
+        
+        <input type="submit" value="แสดง"> 
+        <input type="reset" value="เครียร์">
+
+        </form>
+</html>
