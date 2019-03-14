@@ -15,8 +15,8 @@
         <br>
         สถานะ
         <input type="radio" name = "Single" value = "1" checked> โสด
-        <input type="radio" name = "Single" value = "2">แต่ง
-        <input type="radio" name = "Single" value = "3">หย่า
+        <input type="radio" name = "Single" value = "2">แต่งงาน
+        <input type="radio" name = "Single" value = "3">หย่าล้าง
         <input type="radio" name = "Single" value = "4">หม้าย
         <br>
         รายได้
