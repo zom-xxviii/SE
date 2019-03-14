@@ -19,7 +19,7 @@
         <input type="radio" name = "Single" value = "3">หย่า
         <input type="radio" name = "Single" value = "4">หม้าย
         <br>
-
+        งานอดิเรก
         <input type="checkbox" name = "Single" value = "1">เล่นมือถือ
         <input type="checkbox" name = "Single" value = "1">อ่านหนังงสือ
         <input type="checkbox" name = "Single" value = "1">ดูหนังฟังเพลง
